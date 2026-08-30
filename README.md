@@ -1,6 +1,6 @@
 ### Ali Kendir
 
-Software engineering student in Ankara, focused on building things across
+Software engineer, focused on building things across
 3D graphics, simulation, and applied AI.
 
 ---
